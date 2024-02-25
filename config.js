@@ -70,7 +70,7 @@ module.exports = {
   footer: process.env.Footer || "© Queen Anya Bot",
   prefa: process.env.Prefix || ['-'],
   themeemoji: process.env.ThemeEmoji || "🎐",
-  ownername: process.env.Owner_Name || "Pika~Kun",
+  ownername: process.env.Owner_Name || "RAJA",
   ownernumber: process.env.Owner_Number || "916289691237",
   instagramId: process.env.Insta || "8.08_only_mine",
   warns: process.env.Warns_Limits || 3,
