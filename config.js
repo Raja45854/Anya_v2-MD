@@ -63,7 +63,7 @@ global.message = {
 },
 
 module.exports = {
-  botname: process.env.BotName || "Queen Anya", 
+  botname: process.env.BotName || "UHIHA OBITO", 
   author: process.env.Author || "@PikaBotz",
   packname: process.env.PackName || "Queen Anya v2 MD",
   socialLink: process.env.Web || "https://github.com/PikaBotz",
@@ -71,7 +71,7 @@ module.exports = {
   prefa: process.env.Prefix || ['-'],
   themeemoji: process.env.ThemeEmoji || "🎐",
   ownername: process.env.Owner_Name || "Pika~Kun",
-  ownernumber: process.env.Owner_Number || "916900904828",
+  ownernumber: process.env.Owner_Number || "916289691237",
   instagramId: process.env.Insta || "8.08_only_mine",
   warns: process.env.Warns_Limits || 3,
   mongoUrl: process.env.MongoDB || "YOUR_MONGODB_URL",
